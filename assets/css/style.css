@@ -547,7 +547,7 @@ section {
 
 .about .content .count-box i {
   display: block;
-  font-size: 36px;
+  font-size: 40px;
   color: #ffb727;
   float: left;
   line-height: 0;
@@ -566,7 +566,7 @@ section {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   color: #5d6a75;
 }
 
